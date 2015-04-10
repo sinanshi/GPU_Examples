@@ -10,7 +10,7 @@
 #include <cuda_runtime.h>
 #include <cublas_v2.h>
 //#include <helper_cuda.h>
-#define N 1000000000
+#define N 100000000
 
 int cpu_dot(const float *x, const float *y, float *z){
     int i;
