@@ -4,7 +4,8 @@ http://www.quantatrisk.com/2014/12/06/gpu-accelerated-finance-in-python-with-num
 Anaconda Accelerate (Numbapro)
 -----
 https://store.continuum.io/cshop/accelerate/
-
+* CUDA Libraries Host API
+http://docs.continuum.io/numbapro/cudalib.html
 
 cublas python integration (haven't read)
 ----
